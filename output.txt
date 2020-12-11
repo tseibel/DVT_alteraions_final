@@ -1,0 +1,10 @@
+avg_value of conv3: 0.579737103175
+avg_value of conv2: 0.0557394192913
+avg_value of conv1: 0.622224264706
+avg_value of conv5: 0.0
+avg_value of conv4: 0.561284722222
+avg_value of pool2: 0.640104166667
+avg_value of pool1: 0.992267470472
+avg_value of pool5: 0.112197580645
+------------------------------------
+OVERALL_AVG: 0.445444340897

@@ -1,0 +1,1 @@
+/home/tseibel/deep-visualization-toolbox/data_pull/auto/pool5/barn_02.npy
